@@ -19,8 +19,8 @@ Preview:  https://pirci.github.io/about-me/
 
 ## What I Learned:
 
-- <ul> and <ol> list elements learned and applied
-- Inline style <strong> element learned and applied
+- (ul) and (ol) list elements learned and applied
+- Inline style (strong) element learned and applied
 - Padding and Margin inspected from original page view
 
 
