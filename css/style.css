@@ -1,28 +1,49 @@
+/*
+********** Body Defult Style **********
+*/
+
 body {
   display: block;
   margin: 8px;
   max-width: 1216px;
 }
+
+/*
+********** Navigation Menu Style **********
+*/
+
 ul {
   display: block;
   margin: 16px 0px;
   padding-left: 40px;
   list-style-type: disc;
 }
+
+/*
+********** Profile Photo Style **********
+*/
+
 img {
   display: block;
   margin: 10px 0px;
 }
+
+/*
+********** Main Content Style **********
+*/
+
 h1 {
   display: block;
   margin: 21px 0px;
   font-size: 2em;
   font-weight: bold;
 }
+
 p {
   display: block;
   margin: 16px 0px;
 }
+
 h3 {
   display: block;
   font-size: 1.17em;
