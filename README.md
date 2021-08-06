@@ -1,8 +1,7 @@
-### Seytech Fullstack Software Developer Bootcamp
+### About Me
 
-> HTML & CSS #1st Homework Project (About Me).
+> HTML & CSS basic project.
 
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 ## Live Demo
 
